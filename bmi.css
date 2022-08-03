@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    color: black;
+   
+}
+.container{
+    margin: 100px 25%;
+    border: solid 3px blueviolet;
+    background-color: aqua;
+
+}
+.heading{
+    text-align: center;
+    padding-top: 20px;    
+}
+.content{
+    margin-top: 40px;
+    font-size: 25px;
+}
+.box {
+    text-align: center;
+}
+.weight{
+    margin-top: 10px;
+}
+.height{
+    margin-top: 10px;
+}
+.bmiresult{
+    text-align: center;
+    padding-top: 10px;
+    font-size: x-large ;
+}
+.resultcontent{
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+.button1{
+    border-radius: 10px;
+    margin: 20px 43%;
+    width: 100px;
+    height: 30px;
+}
